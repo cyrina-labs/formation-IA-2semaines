@@ -1,23 +1,48 @@
-# Formation IA – 2 semaines
+# 🚀 Formation IA – Accélérée sur 2 semaines
 
-Ce dépôt contient les résultats de ma formation accélérée à l’Intelligence Artificielle, organisée sur 2 semaines.  
-Objectif : revoir et acquérir des bases solides en Python pour l'IA, comprendre le fonctionnement des agents IA, et expérimenter sur des cas concrets.
-
----
-
-## 📅 Organisation
-
-| Module                         | Contenu principal                              |
-|--------------------------------|-------------------------------------------------|
-| `01_python_basics.ipynb`       | Exercices Python pour débutants                |
-| `02_intro_agenticAI.md`        | Concepts d’IA agentique                        |
-| `03_building_agents.ipynb`     | Construction d’un agent simple avec Python     |
-| `04_case_study_design.md`      | Étude de cas et design d’un agent métier       |
+Bienvenue dans mon dépôt de formation IA !  
+Je documente ici mon parcours intensif d’auto-formation en Python et Intelligence Artificielle agentique, organisé sur 2 semaines.
 
 ---
 
-## 👩‍💻 Objectifs personnels
+## 📚 Objectifs
 
-- M’approprier les bases Python et les outils IA modernes
-- Explorer le concept d’agents intelligents
-- Démontrer mes capacités d’apprentissage via ce portfolio
+- Acquérir les bases essentielles de Python pour la data et l’IA
+- Comprendre les principes de l’IA agentique (AutoGPT, CrewAI, etc.)
+- Construire un agent simple en Python
+- Documenter mes apprentissages dans un portfolio ouvert
+
+---
+
+## 📅 Modules & Projets
+
+| Module                         | Statut      | Description                                       |
+|--------------------------------|-------------|-------------------------------------------------- |
+| `01_python_basics.ipynb`       | ✅ fait     | Exercices Python : variables, boucles, fonctions  |
+| `02_intro_agenticAI.md`        | ⏳ en cours | Concepts de base des agents IA                    |
+| `03_building_agents.ipynb`     | ⏳ en cours | Création d’un mini-agent IA                       |
+| `04_case_study_design.md`      | ⏳ en cours | Étude de cas + design d’un agent réel             |
+
+---
+
+## ✨ Journal de progression
+
+🗓️ *Je note chaque jour mes avancées dans le fichier `progression.md`.*
+
+> 💡 Objectif : montrer régularité, rigueur et appropriation des concepts.
+
+---
+
+## 📌 À propos
+
+👩‍💻 Réalisé par **Cyrina** – en reconversion vers l’IA et la Data.  
+🔗 [Mon profil LinkedIn (à ajouter)](https://www.linkedin.com/in/ton-profil/)  
+📧 Contact : (à compléter si souhaité)
+
+---
+
+## 🔧 Outils utilisés
+
+- Python, Jupyter Notebook
+- GitHub
+- Coursera (Vanderbilt University – Agentic AI)
