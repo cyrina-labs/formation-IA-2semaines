@@ -1,8 +1,7 @@
-# formation-IA-2semaines
-Projet de formation IA accélérée (2 semaines)
+# Formation IA – 2 semaines
 
 Ce dépôt contient les résultats de ma formation accélérée à l’Intelligence Artificielle, organisée sur 2 semaines.  
-Objectif : revoir et acquérir des bases solides en Python pour l'IA, comprendre le fonctionnement des agents IA, et expérimenter sur des cas concrets.
+Objectif : acquérir des bases solides en Python, comprendre le fonctionnement des agents IA, et expérimenter sur des cas concrets.
 
 ---
 
