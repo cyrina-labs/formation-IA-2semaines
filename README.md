@@ -1,48 +1,48 @@
-# 🚀 Formation IA – Accélérée sur 2 semaines
+# 🚀 AI Training – 2-Week Intensive Program
 
-Bienvenue dans mon dépôt de formation IA !  
-Je documente ici mon parcours intensif d’auto-formation en Python et Intelligence Artificielle agentique, organisé sur 2 semaines.
-
----
-
-## 📚 Objectifs
-
-- Acquérir les bases essentielles de Python pour la data et l’IA
-- Comprendre les principes de l’IA agentique (AutoGPT, CrewAI, etc.)
-- Construire un agent simple en Python
-- Documenter mes apprentissages dans un portfolio ouvert
+Welcome to my AI training repository!  
+This is where I document my intensive, fast-paced self-learning journey in Python and agentic AI, over a 2-week plan.
 
 ---
 
-## 📅 Modules & Projets
+## 📚 Goals
 
-| Module                         | Statut      | Description                                       |
-|--------------------------------|-------------|-------------------------------------------------- |
-| `01_python_basics.ipynb`       | ✅ fait     | Exercices Python : variables, boucles, fonctions  |
-| `02_intro_agenticAI.md`        | ⏳ en cours | Concepts de base des agents IA                    |
-| `03_building_agents.ipynb`     | ⏳ en cours | Création d’un mini-agent IA                       |
-| `04_case_study_design.md`      | ⏳ en cours | Étude de cas + design d’un agent réel             |
+- Build solid foundations in Python for data & AI
+- Understand the principles of agentic AI (AutoGPT, CrewAI, etc.)
+- Build a simple AI agent in Python
+- Showcase my learning progress in an open and structured portfolio
 
 ---
 
-## ✨ Journal de progression
+## 📅 Modules & Projects
 
-🗓️ *Je note chaque jour mes avancées dans le fichier `progression.md`.*
-
-> 💡 Objectif : montrer régularité, rigueur et appropriation des concepts.
-
----
-
-## 📌 À propos
-
-👩‍💻 Réalisé par **Cyrina** – en reconversion vers l’IA et la Data.  
-🔗 [Mon profil LinkedIn (à ajouter)](https://www.linkedin.com/in/ton-profil/)  
-📧 Contact : (à compléter si souhaité)
+| Module                         | Status     | Description                                      |
+|--------------------------------|------------|--------------------------------------------------|
+| `01_python_basics.ipynb`       | ✅ done     | Python exercises: variables, loops, functions     |
+| `02_intro_agenticAI.md`        | ✅ done     | Key concepts of agentic AI                        |
+| `03_building_agents.ipynb`     | ⏳ in progress | Build a simple AI agent in Python               |
+| `04_case_study_design.md`      | ⏳ in progress | Use case study + real-world agent design       |
 
 ---
 
-## 🔧 Outils utilisés
+## ✨ Progress Journal
 
-- Python, Jupyter Notebook
-- GitHub
-- Coursera (Vanderbilt University – Agentic AI)
+🗓️ *Daily notes and reflections are documented in the `progression.md` file.*
+
+> 💡 Goal: demonstrate consistency, commitment, and the ability to grasp complex topics independently.
+
+---
+
+## 📌 About
+
+👩‍💻 Created by **Cyrina** – currently transitioning to AI and Data fields.  
+🔗 [My LinkedIn profile (to be added)](https://www.linkedin.com/...)  
+📧 Contact: +33 6 61 63 52 29
+
+---
+
+## 🔧 Tools & Resources
+
+- Python, Jupyter Notebooks  
+- GitHub  
+- Coursera (Vanderbilt University – Agentic AI specialization)
